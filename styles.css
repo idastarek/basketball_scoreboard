@@ -13,6 +13,11 @@ body {
     background: #1B244A;
     border: 3px solid white;
     border-radius: 3%;    
+    max-width: 500px;
+    max-height: 300px;
+    max-height: 300px;
+    text-align: center;
+    margin: 100px auto;
 }
 
 /* styling for each column - home and guest  */
