@@ -1,1 +1,1 @@
-Deployed project here: https://app.netlify.com/sites/idas-basketball-scoreboard/overview
+Deployed project here: https://idas-basketball-scoreboard.netlify.app/
